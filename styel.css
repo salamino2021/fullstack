@@ -4,6 +4,8 @@
 background-color: black;
 position: relative;
     overflow: hidden;
+    margin: 0;
+    padding:0;
 
 }
 
